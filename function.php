@@ -17,7 +17,7 @@ hellow();
 
 yahoo();
 
-echo "This is an example";
+echo "This is a information about git";
 
 hellow();
 
