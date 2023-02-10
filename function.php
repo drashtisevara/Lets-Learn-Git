@@ -6,18 +6,10 @@ function hellow(){
 }
 
 function yahoo(){
-    echo "  drashti hii how are you" . "<br>";
+    echo "  sakshi hii how are you" . "<br>";
 
 }
-hellow();
-
-hellow();
-
-hellow();
-
-yahoo();
-
-echo "This is a information about git";
+  
 
 hellow();
 
